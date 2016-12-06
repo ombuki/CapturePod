@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Capture'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Capture makes reporting bugs easy.'
 
   s.description      = <<-DESC
@@ -18,7 +18,7 @@ Capture makes reporting bugs easy, which increases the productivity of your test
   s.homepage         = 'https://github.com/mobven/Capture'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Ömer Burak Kır' => 'omerburakkir@gmail.com' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/Capture.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ombuki/Capture.git', :tag => s.version.to_s }
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'Capture/Classes/**/*'
