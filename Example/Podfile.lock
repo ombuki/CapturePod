@@ -1,0 +1,16 @@
+PODS:
+  - Capture (10.1.9)
+
+DEPENDENCIES:
+  - Capture (from `../`)
+
+EXTERNAL SOURCES:
+  Capture:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Capture: ad8df56fc76c5c94c8fce996c562fbf5214a40ee
+
+PODFILE CHECKSUM: efb642c66a2b6ef26a0c5619c8da0a250b4b1536
+
+COCOAPODS: 1.0.0
