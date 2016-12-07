@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Capture'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'Capture makes reporting bugs easy.'
 
   s.description      = <<-DESC
@@ -24,8 +24,9 @@ Capture makes reporting bugs easy, which increases the productivity of your test
   s.source_files = 'Capture/Classes/**/*'
   s.vendored_library = 'Capture/Classes/libMobvenBugKit.a'
   s.xcconfig     = { 'OTHER_LDFLAGS' => '-ObjC' }
-  s.resource_bundles = {
-    'MobvenBugKit' => ['Capture/Classes/MobvenBugKit.bundle']
-  }
+  s.resource = 'Capture/Classes/MobvenBugKit.bundle'
+#s.resource_bundles = {
+#   'MobvenBugKit' => ['MobvenBugKit.bundle']
+# }
 
 end

@@ -1,6 +1,6 @@
 {
   "name": "Capture",
-  "version": "10.1.9",
+  "version": "1000.1.2",
   "summary": "Capture makes reporting bugs easy.",
   "description": "Capture makes reporting bugs easy, which increases the productivity of your test engineers; standardized reporting enables your developers to focus on fixing the bug instead of finding and reproducing it. Capture greatly improves your mobile testing processes. Just shake the phone to report a bug and be amazed how easy it can be.",
   "homepage": "https://github.com/mobven/Capture",
@@ -12,8 +12,8 @@
     "Ömer Burak Kır": "omerburakkir@gmail.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/Capture.git",
-    "tag": "10.1.9"
+    "git": "https://github.com/ombuki/CapturePod.git",
+    "tag": "1000.1.2"
   },
   "platforms": {
     "ios": "8.0"
@@ -23,9 +23,5 @@
   "xcconfig": {
     "OTHER_LDFLAGS": "-ObjC"
   },
-  "resource_bundles": {
-    "MobvenBugKit.bundle": [
-      "Capture/Classes/MobvenBugKit.bundle"
-    ]
-  }
+  "resources": "Capture/Classes/MobvenBugKit.bundle"
 }

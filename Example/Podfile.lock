@@ -1,5 +1,5 @@
 PODS:
-  - Capture (10.1.9)
+  - Capture (1000.1.2)
 
 DEPENDENCIES:
   - Capture (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  Capture: ad8df56fc76c5c94c8fce996c562fbf5214a40ee
+  Capture: a71c5a8086daba2a97d48e0cbbf063a79bea0624
 
 PODFILE CHECKSUM: efb642c66a2b6ef26a0c5619c8da0a250b4b1536
 

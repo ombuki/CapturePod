@@ -10,26 +10,33 @@
 	<string>46</string>
 	<key>objects</key>
 	<dict>
-		<key>0201793F71D540F17EF52DCB9FD13926</key>
+		<key>00575A5FFA376544848811C85B89BA36</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>CAB7B48EAC1DDF51C600BEAAC39949E0</string>
+				<string>7F429E2690740768C1012FDB9926CCA7</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
 			<key>name</key>
-			<string>Classes</string>
+			<string>Capture</string>
 			<key>path</key>
-			<string>Classes</string>
+			<string>Capture</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>01B6818C9C20C19828098F268994867F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B75F83DDF3FEF28CC57BAD697B901F13</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>0395BD064AB930450831B37B2EBE2847</key>
 		<dict>
 			<key>children</key>
 			<array>
-				<string>EB3A1BE73B34561CC8BC9A7E7356D5A3</string>
+				<string>ACB17A4A551945E6E97A4B914829E99C</string>
 			</array>
 			<key>isa</key>
 			<string>PBXGroup</string>
@@ -50,31 +57,6 @@
 			<string>PBXHeadersBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
-		</dict>
-		<key>04575A7B1E5CF3CCDB00355FC0A70A52</key>
-		<dict>
-			<key>fileRef</key>
-			<string>DFB7F7A10357027982E2859F122269CA</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>052E5D717D0E7D0B8847F14E68E120C0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>mobven_dummy_avatar.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>05753076B9473DD2ED7574A31D0D6C20</key>
-		<dict>
-			<key>fileRef</key>
-			<string>2F19690463F549E1B637C06B9ADEB690</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
 		</dict>
 		<key>0ACDCBCB0B6796575F46FFA2F5410C6B</key>
 		<dict>
@@ -147,19 +129,38 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>0D6A90921AA0B877A04A05E62F46E185</key>
+		<key>0B30ABF85C10EE5D29E85EBACA88D9FD</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>6AB250A5F814FB6FE286FE5AFDFB3952</string>
-				<string>3E6C6D1D603644C124EBECF7ED97188B</string>
-				<string>7839A2005FAF0E9F1105957CFA5429B3</string>
-				<string>6CC0728D6D67CAC9DDBABE45EF790E85</string>
-			</array>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>mobvenBug.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>0D17AAC2EE6129D7800D641BDE55D28F</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>mobven_renk1.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>0D5C487278EB53A0C967F69C7C65A230</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.xcconfig</string>
+			<key>path</key>
+			<string>Capture.xcconfig</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -177,32 +178,25 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>104EF954D1F16B5A049DAF877ED99D6E</key>
+		<key>0E81B13DFD64B307EFC278F0E67A58DB</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>path</key>
-			<string>mobvenBug@3x.png</string>
+			<string>mobven_selected_renk@2x.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>10D3F67BFBC58B66AFA20B8C72D3EEA2</key>
+		<key>11DD42D74FF848DD9119FE28254198DA</key>
 		<dict>
-			<key>fileRef</key>
-			<string>500475A0DD8FE1514D4F901FCF2F1194</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>130DB98D4BED6CBBDB0270C3EDC00C1A</key>
-		<dict>
-			<key>children</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>mobven_renk2.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -230,140 +224,101 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>138A2EDD382CE7E39D0BE56459344E33</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>1A1D0BCEBEA3FEAEA1B24191172B6AC3</key>
+		<key>15E5ED3FB36CBAC76CB514207B7B9950</key>
 		<dict>
 			<key>fileRef</key>
-			<string>5CE12BFFEE8E213227ED44E296BE355A</string>
+			<string>B62E32D816438876595C0D7720713FB7</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>1B795EF005E07184CF4707EF04A01EC5</key>
+		<key>19DC936EBAB6B56B4D3A57655DFCB455</key>
 		<dict>
-			<key>fileRef</key>
-			<string>CEC22C73C1608DFA5D5D78BDCB218219</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>1C3CF25B1379FD6D47493D0B7F79C86E</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>A4CC3CAF4F6910E64DA789288C29E73C</string>
-				<string>DFB7F7A10357027982E2859F122269CA</string>
-				<string>8D67DB01481D2F9CA30206DDF03575FC</string>
-				<string>8A2E91E80D6B2716F400D80F5C936EE3</string>
-				<string>937D6D965EC36D00A22E07CC67C25C24</string>
-				<string>5322A9F59DAB52A39606CF9670630FC0</string>
-				<string>95197C3B8B9C38669612A0F52285B1DD</string>
-				<string>052E5D717D0E7D0B8847F14E68E120C0</string>
-				<string>F502E7B343E9282FF9003C9DFCFFC8B7</string>
-				<string>9371406622FE910BEA200E1A25F16E46</string>
-				<string>F735C6D85A7149B6ACE6D4A765C10965</string>
-				<string>5E5F8E58E06E2A442AABD490BEBB4C53</string>
-				<string>D734EF79175D080CA6EA3A0CF3964455</string>
-				<string>7CE7C4C949DFA0C7D277904B9E7962AA</string>
-				<string>2F19690463F549E1B637C06B9ADEB690</string>
-				<string>8B19B6DC57C8FB55DD007624130F4C10</string>
-				<string>500475A0DD8FE1514D4F901FCF2F1194</string>
-				<string>34B40087C57AAA159AE71CDFA1AC445C</string>
-				<string>5EEB14F3C58268396BB802CE87181BC9</string>
-				<string>A00263D5A133EF49F4077303F72DC760</string>
-				<string>4C448CCD1843D3340F466BF4C04D95A9</string>
-				<string>E1B57595E7443BE8965E3B3EA628680D</string>
-				<string>990EC573DEDF4C19221FDC91965306A0</string>
-				<string>CF7C324DD3E0974396AA495150753A11</string>
-				<string>4E25F53C0CE4132E2E5750EE492174AE</string>
-				<string>DE2171EF0AD800862BF4E45B306CF373</string>
-				<string>8D1A756FAE395779CF2623CDE4267059</string>
-				<string>2B536CE7A58238804905A0E7C23C214B</string>
-				<string>104EF954D1F16B5A049DAF877ED99D6E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>MobvenBugKit.bundle</string>
+			<string>PBXFileReference</string>
 			<key>path</key>
-			<string>MobvenBugKit.bundle</string>
+			<string>mobven_renk2@2x.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>1C8304D6B9E2F4DF5BF5139257FFEF7A</key>
+		<key>1A5055217E726D5D2748CE5EEC3D7C54</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>mobven_reverse@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>1D374DDF15470DA829B581D04905DFC4</key>
 		<dict>
 			<key>fileRef</key>
-			<string>D734EF79175D080CA6EA3A0CF3964455</string>
+			<string>5AE7FC43E8FE304831D9F52C692DF17E</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>20193AD2A96AD6907E42098A5B129F55</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>407967804D0E1D21A7BBDB28B8D76AC6</string>
-			<key>buildSettings</key>
+			<key>settings</key>
 			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf-with-dsym</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/Capture/Capture-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Capture/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.0</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
+				<key>ATTRIBUTES</key>
 				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
+					<string>Public</string>
 				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Capture/Capture.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>PRODUCT_NAME</key>
-				<string>Capture</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
 			</dict>
+		</dict>
+		<key>1EC1A7CF6ACD89A1954D2715BDE10A06</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>D6538EE7867D5031373EBD2B105D2FB9</string>
+			<key>buildPhases</key>
+			<array>
+				<string>A8F3AE22FDA6D046B761CA4E85C24BFE</string>
+				<string>E433A686FA61F7F3A14A7A77B6765B0A</string>
+				<string>CF9BD4F0DB30CF1B2940B09E6EC75372</string>
+				<string>3E2068D75366F0186E29C3F50B504D03</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array/>
 			<key>isa</key>
-			<string>XCBuildConfiguration</string>
+			<string>PBXNativeTarget</string>
 			<key>name</key>
-			<string>Release</string>
+			<string>Capture</string>
+			<key>productName</key>
+			<string>Capture</string>
+			<key>productReference</key>
+			<string>7D1CD9C8093FC35C034832C972CC405C</string>
+			<key>productType</key>
+			<string>com.apple.product-type.framework</string>
+		</dict>
+		<key>1F218EA8F1C8F112CBCB64BB6D38E1CA</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>Capture-prefix.pch</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>1FDEE66DB9B0AFF21EEBBE034D8194F9</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F00416AA4BC41F015373F0E099E000FC</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>203D636809CA3BDDC7449A4235EEF6B7</key>
 		<dict>
@@ -378,12 +333,31 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>253800D2F8E100EE9F8C1800CDCD48A6</key>
+		<key>2180E427BE9BDB016106687DD79BA20F</key>
 		<dict>
-			<key>fileRef</key>
-			<string>937D6D965EC36D00A22E07CC67C25C24</string>
+			<key>children</key>
+			<array>
+				<string>AAE70E1426B2F3CF3449E284459D0598</string>
+			</array>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Capture</string>
+			<key>path</key>
+			<string>Capture</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>25AA1DDF987E7E09E340854A640E35FC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>mobven_renk1@3x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>2677DEFBF0E332F2A712951EE29106D6</key>
 		<dict>
@@ -453,34 +427,35 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>277636499C2F0538BED7E4A227568817</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>282F10D1C06CEDEA1574010DE4AA963D</key>
+		<key>26B35B46A7F0C54FC767CCC958433CFF</key>
 		<dict>
 			<key>fileRef</key>
-			<string>F735C6D85A7149B6ACE6D4A765C10965</string>
+			<string>2B1A980F13237D53869B95D81ED6B7DD</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>2B536CE7A58238804905A0E7C23C214B</key>
+		<key>2859F475D95248AF6469271E8FE90BD6</key>
+		<dict>
+			<key>fileRef</key>
+			<string>0D17AAC2EE6129D7800D641BDE55D28F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>2A591D525574EB13BFC41C47B931EB75</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D84C4EC59E4B136320788C9E94720D8D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>2B1A980F13237D53869B95D81ED6B7DD</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>path</key>
-			<string>mobvenBug@2x.png</string>
+			<string>mobven_dummy_avatar.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -498,17 +473,6 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>2F19690463F549E1B637C06B9ADEB690</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>mobven_renk3.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>2FDCB97F57AE16A84A5FD336FE47A7FD</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -522,36 +486,48 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>311055FCA8C5C47680D2A95CB4B91EFC</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>0201793F71D540F17EF52DCB9FD13926</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Capture</string>
-			<key>path</key>
-			<string>Capture</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>34B40087C57AAA159AE71CDFA1AC445C</key>
+		<key>31DECB0ECC6ABC3D145806B5E5D97A13</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>path</key>
-			<string>mobven_renk4.png</string>
+			<string>mobven_reverse@3x.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>36F18F7DF9C1E1CA557C5CA0380909B0</key>
+		<key>3281139C867166DB3C47A9CEC816810A</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>7DAE9DDD8021F9EBE39938F7518522B7</string>
+				<string>0D5C487278EB53A0C967F69C7C65A230</string>
+				<string>D3722BF0578132CECFC4D7B9825E8936</string>
+				<string>1F218EA8F1C8F112CBCB64BB6D38E1CA</string>
+				<string>53F87FA3646C2C751922AACA24CB2141</string>
+				<string>E34E7B43C363ECD6970DEA1954C82978</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Support Files</string>
+			<key>path</key>
+			<string>Example/Pods/Target Support Files/Capture</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>35B571FF4711FA29E4E07C7670D8F32A</key>
 		<dict>
 			<key>fileRef</key>
-			<string>34B40087C57AAA159AE71CDFA1AC445C</string>
+			<string>887D934E96FF29F33BBD11B159D76B4E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>36D488995D448E9D6251E89E51C31681</key>
+		<dict>
+			<key>fileRef</key>
+			<string>7C8C4AA712CB0E1B432C44E882BAB227</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -578,23 +554,9 @@
 			<key>productName</key>
 			<string>Pods-Capture_Example</string>
 			<key>productReference</key>
-			<string>7839A2005FAF0E9F1105957CFA5429B3</string>
+			<string>CD595D67254AD46063B669C450A8526D</string>
 			<key>productType</key>
 			<string>com.apple.product-type.framework</string>
-		</dict>
-		<key>39EB8EC0DA212DF22E7555132DBB7D0D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>56EBF9E07E79F8A2A32FBDD544638D8D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
 		</dict>
 		<key>3B8894CABAA609C8E87229F4B08250D7</key>
 		<dict>
@@ -616,67 +578,51 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>3E6C6D1D603644C124EBECF7ED97188B</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.cfbundle</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>MobvenBugKit.bundle.bundle</string>
-			<key>path</key>
-			<string>MobvenBugKit.bundle.bundle</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>407967804D0E1D21A7BBDB28B8D76AC6</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>path</key>
-			<string>Capture.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>40C880935E001B2E51A66E3C37D4C167</key>
+		<key>3E2068D75366F0186E29C3F50B504D03</key>
 		<dict>
 			<key>buildActionMask</key>
 			<string>2147483647</string>
 			<key>files</key>
 			<array>
-				<string>8EAFE5B50D6FC0004818C348F16CF5B9</string>
+				<string>753BBF52D8CED956C502B6842189C37B</string>
 			</array>
 			<key>isa</key>
 			<string>PBXResourcesBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>41686BC56538701B787A56900571BAF0</key>
+		<key>3EE71BCB1C9CC852EC124D6B3F69E670</key>
 		<dict>
-			<key>fileRef</key>
-			<string>CF7C324DD3E0974396AA495150753A11</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>mobven_renk3.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>416BF9EB41B964B2E93E226CB4A7C6E5</key>
+		<key>41AE7172E1C0831F7D57E509367879CF</key>
 		<dict>
-			<key>fileRef</key>
-			<string>A4CC3CAF4F6910E64DA789288C29E73C</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>mobven_back@3x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>44D03DEBD666D1AD98A3AE824E418E95</key>
+		<key>44B88FD2B2747114BEDE1E33B7F67871</key>
 		<dict>
-			<key>fileRef</key>
-			<string>A00263D5A133EF49F4077303F72DC760</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>mobven_renk3@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>4627B644C7507354F2312E4EC0BCDE97</key>
 		<dict>
@@ -690,38 +636,6 @@
 			<string>Pods-Capture_Tests.release.xcconfig</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>46E91F4F9E343B127B181675DDFC3CE7</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>407967804D0E1D21A7BBDB28B8D76AC6</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CONFIGURATION_BUILD_DIR</key>
-				<string>$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Capture</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Capture/ResourceBundle-MobvenBugKit.bundle-Info.plist</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.0</string>
-				<key>PRODUCT_NAME</key>
-				<string>MobvenBugKit.bundle</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>bundle</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
 		</dict>
 		<key>478EE8FF181D9B1D898F7A738FFABC96</key>
 		<dict>
@@ -763,38 +677,6 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>4C448CCD1843D3340F466BF4C04D95A9</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>mobven_reverse.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4C574AC2228936BADC4845639D4F53FC</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>E8D3DB1E577127B06EC620AB8926447B</string>
-				<string>407967804D0E1D21A7BBDB28B8D76AC6</string>
-				<string>5CE12BFFEE8E213227ED44E296BE355A</string>
-				<string>DEB6E4E0E0B898605A91D2673B510D54</string>
-				<string>56EBF9E07E79F8A2A32FBDD544638D8D</string>
-				<string>277636499C2F0538BED7E4A227568817</string>
-				<string>FE337A5BF3A59DED9573B8E6274DE74A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Support Files</string>
-			<key>path</key>
-			<string>Example/Pods/Target Support Files/Capture</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>4C71409C9241F923C8D30A9500648243</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -808,41 +690,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>4D2A40FA7A3950AD920BB9EE6BAC7BC2</key>
+		<key>4DDEE820FDDDFEDDE5965B250B10FD10</key>
 		<dict>
 			<key>fileRef</key>
-			<string>7CE7C4C949DFA0C7D277904B9E7962AA</string>
+			<string>DE26AB1917A35C88CC1C94F68E7BA16F</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>4E25F53C0CE4132E2E5750EE492174AE</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>mobven_selected_renk@2x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4E5F5632D83387F106057673D6AEDA28</key>
+		<key>4E4C4F908DDAB30836B58EE093774932</key>
 		<dict>
 			<key>fileRef</key>
-			<string>8A2E91E80D6B2716F400D80F5C936EE3</string>
+			<string>86180800711EB841C714B817C28FB9B1</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>500475A0DD8FE1514D4F901FCF2F1194</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>mobven_renk3@3x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>50F33CD272A3B528E09F74B4D2143AE0</key>
 		<dict>
@@ -864,14 +724,23 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>5322A9F59DAB52A39606CF9670630FC0</key>
+		<key>521FF3F10901C596209873CDBAA55909</key>
+		<dict>
+			<key>fileRef</key>
+			<string>25AA1DDF987E7E09E340854A640E35FC</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>53F87FA3646C2C751922AACA24CB2141</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>mobven_close@2x.png</string>
+			<string>Capture-umbrella.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -895,23 +764,10 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>56EBF9E07E79F8A2A32FBDD544638D8D</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>Capture-umbrella.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>571D728F8829BE4E9439B950D228A60D</key>
+		<key>56A8623BEE425DE52A9C4D7172971E9A</key>
 		<dict>
 			<key>fileRef</key>
-			<string>8D1A756FAE395779CF2623CDE4267059</string>
+			<string>B63C3C4753BD1EE66A6D3E06B2EC5186</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -928,51 +784,25 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>5B1043D6361C3D9FB04BF7C1B4E4DD6E</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>E5F18383A7E3DBF9FED7F46444E157A9</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Capture</string>
-			<key>path</key>
-			<string>Capture</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5CE12BFFEE8E213227ED44E296BE355A</key>
+		<key>5AE7FC43E8FE304831D9F52C692DF17E</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>Capture-dummy.m</string>
+			<string>MobvenBugReportEventModel.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>5D78A6B66975E5622ECA526271CE7EFC</key>
+		<key>5D3D833985E2D3D404C8D13186BAB47F</key>
 		<dict>
 			<key>fileRef</key>
-			<string>990EC573DEDF4C19221FDC91965306A0</string>
+			<string>31DECB0ECC6ABC3D145806B5E5D97A13</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>5E5F8E58E06E2A442AABD490BEBB4C53</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>mobven_renk2.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>5EB229E3B0D6073CBABB20E6DF86D534</key>
 		<dict>
@@ -995,18 +825,20 @@
 			<key>productName</key>
 			<string>Pods-Capture_Tests</string>
 			<key>productReference</key>
-			<string>6CC0728D6D67CAC9DDBABE45EF790E85</string>
+			<string>FCAF1438967ECB0AC5D863D798587842</string>
 			<key>productType</key>
 			<string>com.apple.product-type.framework</string>
 		</dict>
-		<key>5EEB14F3C58268396BB802CE87181BC9</key>
+		<key>5F33E2EFEB60E1DD9E7956AF06AD215D</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>children</key>
+			<array>
+				<string>00575A5FFA376544848811C85B89BA36</string>
+			</array>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>mobven_renk4@2x.png</string>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Resources</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1078,35 +910,48 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>6AB250A5F814FB6FE286FE5AFDFB3952</key>
+		<key>63C02EDA3ECD5E647028F239600A2F69</key>
 		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
-			<key>includeInIndex</key>
-			<string>0</string>
+			<key>fileRef</key>
+			<string>53F87FA3646C2C751922AACA24CB2141</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>Capture.framework</string>
-			<key>path</key>
-			<string>Capture.framework</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
-		<key>6CC0728D6D67CAC9DDBABE45EF790E85</key>
+		<key>678E84BA2F7067C8B7777704CDFF05D5</key>
 		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.framework</string>
+			<key>fileRef</key>
+			<string>9E1212947551E428297E00E67434B5BE</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>68F5EDA2F2D9CAB3130A302D420E8516</key>
+		<dict>
+			<key>children</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Frameworks</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>6B86C40BBEAEBAE1FAF38E9D1F397968</key>
+		<dict>
 			<key>includeInIndex</key>
-			<string>0</string>
+			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
-			<key>name</key>
-			<string>Pods_Capture_Tests.framework</string>
 			<key>path</key>
-			<string>Pods-Capture_Tests.framework</string>
+			<string>mobven_renk4@2x.png</string>
 			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>6EB31CD872522E57F8C996CDD5604F9D</key>
 		<dict>
@@ -1187,7 +1032,128 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>7839A2005FAF0E9F1105957CFA5429B3</key>
+		<key>713347A9E60A9FBCC53A907E785C130D</key>
+		<dict>
+			<key>fileRef</key>
+			<string>11DD42D74FF848DD9119FE28254198DA</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>74B3FD3D14B70313F73A450CD5129967</key>
+		<dict>
+			<key>fileRef</key>
+			<string>82950F96AF497C7906B7D0219227B94B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>753BBF52D8CED956C502B6842189C37B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D50A408CA5D029B85866CAAFF60DEA67</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>75EBBD9F8839E0FE975F58DC40687B69</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>0D5C487278EB53A0C967F69C7C65A230</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string>iPhone Developer</string>
+				<key>CURRENT_PROJECT_VERSION</key>
+				<string>1</string>
+				<key>DEBUG_INFORMATION_FORMAT</key>
+				<string>dwarf</string>
+				<key>DEFINES_MODULE</key>
+				<string>YES</string>
+				<key>DYLIB_COMPATIBILITY_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_CURRENT_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_INSTALL_NAME_BASE</key>
+				<string>@rpath</string>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>GCC_NO_COMMON_BLOCKS</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Target Support Files/Capture/Capture-prefix.pch</string>
+				<key>INFOPLIST_FILE</key>
+				<string>Target Support Files/Capture/Info.plist</string>
+				<key>INSTALL_PATH</key>
+				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>8.0</string>
+				<key>LD_RUNPATH_SEARCH_PATHS</key>
+				<array>
+					<string>$(inherited)</string>
+					<string>@executable_path/Frameworks</string>
+					<string>@loader_path/Frameworks</string>
+				</array>
+				<key>MODULEMAP_FILE</key>
+				<string>Target Support Files/Capture/Capture.modulemap</string>
+				<key>MTL_ENABLE_DEBUG_INFO</key>
+				<string>YES</string>
+				<key>PRODUCT_NAME</key>
+				<string>Capture</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>TARGETED_DEVICE_FAMILY</key>
+				<string>1,2</string>
+				<key>VERSIONING_SYSTEM</key>
+				<string>apple-generic</string>
+				<key>VERSION_INFO_PREFIX</key>
+				<string></string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Debug</string>
+		</dict>
+		<key>7618C3B2C0963BFA3EAF98B0D835AAD5</key>
+		<dict>
+			<key>fileRef</key>
+			<string>F05F7E0F679335EB313C2E46AC0D4BFB</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>78485270D3618B6917C05A08345A886A</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>7D1CD9C8093FC35C034832C972CC405C</string>
+				<string>CD595D67254AD46063B669C450A8526D</string>
+				<string>FCAF1438967ECB0AC5D863D798587842</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Products</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>79D013CCDEA3BE76AEB6D2264C75D115</key>
+		<dict>
+			<key>fileRef</key>
+			<string>0B30ABF85C10EE5D29E85EBACA88D9FD</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>7C8C4AA712CB0E1B432C44E882BAB227</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>mobven_renk4@3x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>7D1CD9C8093FC35C034832C972CC405C</key>
 		<dict>
 			<key>explicitFileType</key>
 			<string>wrapper.framework</string>
@@ -1196,56 +1162,22 @@
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>name</key>
-			<string>Pods_Capture_Example.framework</string>
+			<string>Capture.framework</string>
 			<key>path</key>
-			<string>Pods-Capture_Example.framework</string>
+			<string>Capture.framework</string>
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
-		<key>788F5149FD22FC7024A266D6F3D190FB</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F502E7B343E9282FF9003C9DFCFFC8B7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>78AF2685B20EDBFD1436B3EE6AC64BDC</key>
-		<dict>
-			<key>fileRef</key>
-			<string>965B516F01420BB5F5990C1F9F9325CD</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>7CE7C4C949DFA0C7D277904B9E7962AA</key>
+		<key>7DAE9DDD8021F9EBE39938F7518522B7</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>path</key>
-			<string>mobven_renk2@3x.png</string>
+			<string>Capture.modulemap</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>7D4AD9DF797813CAEE6BE1AC1BCD67E0</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>D1D6FD3C55FE3E48964E9C68D5F1444D</string>
-			</array>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
 		</dict>
 		<key>7DB346D0F39D3F0E887471402A8071AB</key>
 		<dict>
@@ -1254,7 +1186,7 @@
 				<string>93A4A3777CF96A4AAC1D13BA6DCCEA73</string>
 				<string>0395BD064AB930450831B37B2EBE2847</string>
 				<string>BC3CA7F9E30CC8F7E2DD044DD34432FC</string>
-				<string>0D6A90921AA0B877A04A05E62F46E185</string>
+				<string>78485270D3618B6917C05A08345A886A</string>
 				<string>481267C00829715903E38A05156F7A14</string>
 			</array>
 			<key>isa</key>
@@ -1262,62 +1194,20 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>7F6327C37CB62EFECC6B0630340C730D</key>
+		<key>7F429E2690740768C1012FDB9926CCA7</key>
 		<dict>
-			<key>fileRef</key>
-			<string>ADECE6DDD637F77F04509B9CD437696A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>8135DA6ED5E98759E0E204AB27BE8B56</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
+			<key>children</key>
 			<array>
-				<string>1A1D0BCEBEA3FEAEA1B24191172B6AC3</string>
-				<string>416BF9EB41B964B2E93E226CB4A7C6E5</string>
-				<string>BE4DFD09354D2E665623FA3A3E26AF03</string>
-				<string>04575A7B1E5CF3CCDB00355FC0A70A52</string>
-				<string>B765CDF9E499ED39F354C49F12359564</string>
-				<string>4E5F5632D83387F106057673D6AEDA28</string>
-				<string>253800D2F8E100EE9F8C1800CDCD48A6</string>
-				<string>F319DD2E21EEB8D76C210B42F86715AB</string>
-				<string>DBC35679E3CB14F7AAAE30C8B612AA6A</string>
-				<string>DB7DCFF6A9C234F015E7F1D635D067BD</string>
-				<string>788F5149FD22FC7024A266D6F3D190FB</string>
-				<string>F85D43E6F97B4A630CF2318161E973F0</string>
-				<string>282F10D1C06CEDEA1574010DE4AA963D</string>
-				<string>B8551A2E8DAA6F4A79AE6C12A95943F4</string>
-				<string>1C8304D6B9E2F4DF5BF5139257FFEF7A</string>
-				<string>4D2A40FA7A3950AD920BB9EE6BAC7BC2</string>
-				<string>05753076B9473DD2ED7574A31D0D6C20</string>
-				<string>8AE1D40BB6D44FD27755CA7AB1568478</string>
-				<string>10D3F67BFBC58B66AFA20B8C72D3EEA2</string>
-				<string>36F18F7DF9C1E1CA557C5CA0380909B0</string>
-				<string>9214CAB3F2D8C830497BED28EA8C52BF</string>
-				<string>44D03DEBD666D1AD98A3AE824E418E95</string>
-				<string>BDAD5FE6F4218C2C80BE20D5A0F92033</string>
-				<string>AF4F403FA11FC2C53655E888F8A1F4FE</string>
-				<string>5D78A6B66975E5622ECA526271CE7EFC</string>
-				<string>41686BC56538701B787A56900571BAF0</string>
-				<string>F8AE286ECC2C5A369D52B8DBA410B9CA</string>
-				<string>91258F2712E369C547767A6EE46CBBE9</string>
-				<string>571D728F8829BE4E9439B950D228A60D</string>
-				<string>A7884DC89B4A2972CC7678448A7A4B28</string>
-				<string>D59CCFA176420ABF38F889CB7BA66549</string>
+				<string>D50A408CA5D029B85866CAAFF60DEA67</string>
 			</array>
 			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Classes</string>
+			<key>path</key>
+			<string>Classes</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>818B31AADD2837F94E8DF1D7B2F7D388</key>
 		<dict>
@@ -1327,6 +1217,17 @@
 			<string>PBXFileReference</string>
 			<key>path</key>
 			<string>Pods-Capture_Tests.modulemap</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>82950F96AF497C7906B7D0219227B94B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>mobven_renk3@3x.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1398,65 +1299,16 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>8400112CF1859F9C21D4DF4530C82063</key>
+		<key>86180800711EB841C714B817C28FB9B1</key>
 		<dict>
-			<key>baseConfigurationReference</key>
-			<string>407967804D0E1D21A7BBDB28B8D76AC6</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/Capture/Capture-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Capture/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.0</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/Capture/Capture.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>PRODUCT_NAME</key>
-				<string>Capture</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>mobven_renk4.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>8733D4634AB6EBC382624FBEED44205D</key>
 		<dict>
@@ -1471,66 +1323,27 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>8A2E91E80D6B2716F400D80F5C936EE3</key>
+		<key>876271292B42FE98C509FFDFBBEA700F</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>path</key>
-			<string>mobven_back@3x.png</string>
+			<string>mobven_back@2x.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>8AE1D40BB6D44FD27755CA7AB1568478</key>
-		<dict>
-			<key>fileRef</key>
-			<string>8B19B6DC57C8FB55DD007624130F4C10</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>8B19B6DC57C8FB55DD007624130F4C10</key>
+		<key>887D934E96FF29F33BBD11B159D76B4E</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>path</key>
-			<string>mobven_renk3@2x.png</string>
+			<string>mobven_back.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8BD36885FFB6A534FAE23F330EF6D05C</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>407967804D0E1D21A7BBDB28B8D76AC6</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CONFIGURATION_BUILD_DIR</key>
-				<string>$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/Capture</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/Capture/ResourceBundle-MobvenBugKit.bundle-Info.plist</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>8.0</string>
-				<key>PRODUCT_NAME</key>
-				<string>MobvenBugKit.bundle</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>bundle</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
 		</dict>
 		<key>8C47E56D15FAA558D4F0F190BC342722</key>
 		<dict>
@@ -1583,32 +1396,10 @@
 				</array>
 			</dict>
 		</dict>
-		<key>8D1A756FAE395779CF2623CDE4267059</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>mobvenBug.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8D67DB01481D2F9CA30206DDF03575FC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>mobven_back@2x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8EAFE5B50D6FC0004818C348F16CF5B9</key>
+		<key>8FC9DFF365E44D6433A59755113800AC</key>
 		<dict>
 			<key>fileRef</key>
-			<string>CAB7B48EAC1DDF51C600BEAAC39949E0</string>
+			<string>FA7089AADD3A0919C5411691E5BCA268</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -1625,41 +1416,23 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>91258F2712E369C547767A6EE46CBBE9</key>
-		<dict>
-			<key>fileRef</key>
-			<string>DE2171EF0AD800862BF4E45B306CF373</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>9214CAB3F2D8C830497BED28EA8C52BF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>5EEB14F3C58268396BB802CE87181BC9</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>9371406622FE910BEA200E1A25F16E46</key>
+		<key>9138D8142D048A1BA245FC47AB902F5E</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>path</key>
-			<string>mobven_renk1@2x.png</string>
+			<string>mobvenBug@3x.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>937D6D965EC36D00A22E07CC67C25C24</key>
+		<key>931D48C29C103AAA03148C13B91242ED</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>D3722BF0578132CECFC4D7B9825E8936</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>mobven_close.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>93A4A3777CF96A4AAC1D13BA6DCCEA73</key>
 		<dict>
@@ -1680,27 +1453,46 @@
 			<key>xcLanguageSpecificationIdentifier</key>
 			<string>xcode.lang.ruby</string>
 		</dict>
-		<key>95197C3B8B9C38669612A0F52285B1DD</key>
+		<key>9664812C6B098C2F273B7032004E2435</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>children</key>
+			<array>
+				<string>F05F7E0F679335EB313C2E46AC0D4BFB</string>
+				<string>887D934E96FF29F33BBD11B159D76B4E</string>
+				<string>876271292B42FE98C509FFDFBBEA700F</string>
+				<string>41AE7172E1C0831F7D57E509367879CF</string>
+				<string>B1026C34B72FE0DE41A77912C2F55676</string>
+				<string>9E1212947551E428297E00E67434B5BE</string>
+				<string>B62E32D816438876595C0D7720713FB7</string>
+				<string>2B1A980F13237D53869B95D81ED6B7DD</string>
+				<string>0D17AAC2EE6129D7800D641BDE55D28F</string>
+				<string>B75F83DDF3FEF28CC57BAD697B901F13</string>
+				<string>25AA1DDF987E7E09E340854A640E35FC</string>
+				<string>11DD42D74FF848DD9119FE28254198DA</string>
+				<string>19DC936EBAB6B56B4D3A57655DFCB455</string>
+				<string>A37EFD83BFCBCFE1B3CC4D138809E1F7</string>
+				<string>3EE71BCB1C9CC852EC124D6B3F69E670</string>
+				<string>44B88FD2B2747114BEDE1E33B7F67871</string>
+				<string>82950F96AF497C7906B7D0219227B94B</string>
+				<string>86180800711EB841C714B817C28FB9B1</string>
+				<string>6B86C40BBEAEBAE1FAF38E9D1F397968</string>
+				<string>7C8C4AA712CB0E1B432C44E882BAB227</string>
+				<string>DE26AB1917A35C88CC1C94F68E7BA16F</string>
+				<string>1A5055217E726D5D2748CE5EEC3D7C54</string>
+				<string>31DECB0ECC6ABC3D145806B5E5D97A13</string>
+				<string>FA7089AADD3A0919C5411691E5BCA268</string>
+				<string>0E81B13DFD64B307EFC278F0E67A58DB</string>
+				<string>D16B6B501654A8E40FF6BC592E4F7324</string>
+				<string>0B30ABF85C10EE5D29E85EBACA88D9FD</string>
+				<string>B63C3C4753BD1EE66A6D3E06B2EC5186</string>
+				<string>9138D8142D048A1BA245FC47AB902F5E</string>
+			</array>
 			<key>isa</key>
-			<string>PBXFileReference</string>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>MobvenBugKit.bundle</string>
 			<key>path</key>
-			<string>mobven_close@3x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>965B516F01420BB5F5990C1F9F9325CD</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MobvenBugReporter.h</string>
+			<string>MobvenBugKit.bundle</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1717,25 +1509,28 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>98A7EAC3A68F52E22765153F7916719D</key>
+		<key>9A8AACB6D770336E46418B8225091397</key>
 		<dict>
+			<key>fileRef</key>
+			<string>9138D8142D048A1BA245FC47AB902F5E</string>
 			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>Capture-MobvenBugKit.bundle</string>
-			<key>target</key>
-			<string>A558FDC119CC760E628CD081A70B0585</string>
-			<key>targetProxy</key>
-			<string>EB58239CFCF16B40785690DBD8360D83</string>
+			<string>PBXBuildFile</string>
 		</dict>
-		<key>990EC573DEDF4C19221FDC91965306A0</key>
+		<key>9BD8F5DEA33C46F92D81396275F607C8</key>
+		<dict>
+			<key>fileRef</key>
+			<string>876271292B42FE98C509FFDFBBEA700F</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>9E1212947551E428297E00E67434B5BE</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>path</key>
-			<string>mobven_reverse@3x.png</string>
+			<string>mobven_close@2x.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1753,17 +1548,6 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>A00263D5A133EF49F4077303F72DC760</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>mobven_renk4@3x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>A16EB62A7A5A64281A03CC4FB953FE5B</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -1777,43 +1561,23 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>A4CC3CAF4F6910E64DA789288C29E73C</key>
+		<key>A37EFD83BFCBCFE1B3CC4D138809E1F7</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
 			<key>path</key>
-			<string>Info.plist</string>
+			<string>mobven_renk2@3x.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>A558FDC119CC760E628CD081A70B0585</key>
+		<key>A546D5A4425B7A608D850E3AF056CAF0</key>
 		<dict>
-			<key>buildConfigurationList</key>
-			<string>CE7A18C0E6D7B0E7EF95A242E70FF427</string>
-			<key>buildPhases</key>
-			<array>
-				<string>138A2EDD382CE7E39D0BE56459344E33</string>
-				<string>DB03F22CAAAB85103B5CBB5ACE7B6450</string>
-				<string>40C880935E001B2E51A66E3C37D4C167</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
+			<key>fileRef</key>
+			<string>44B88FD2B2747114BEDE1E33B7F67871</string>
 			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Capture-MobvenBugKit.bundle</string>
-			<key>productName</key>
-			<string>Capture-MobvenBugKit.bundle</string>
-			<key>productReference</key>
-			<string>3E6C6D1D603644C124EBECF7ED97188B</string>
-			<key>productType</key>
-			<string>com.apple.product-type.bundle</string>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>A704AF372110D14F1024A06E70292992</key>
 		<dict>
@@ -1824,36 +1588,173 @@
 			<key>proxyType</key>
 			<string>1</string>
 			<key>remoteGlobalIDString</key>
-			<string>C05846A5F466027F18AAA863CC607CA5</string>
+			<string>1EC1A7CF6ACD89A1954D2715BDE10A06</string>
 			<key>remoteInfo</key>
 			<string>Capture</string>
 		</dict>
-		<key>A7884DC89B4A2972CC7678448A7A4B28</key>
+		<key>A8F3AE22FDA6D046B761CA4E85C24BFE</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>931D48C29C103AAA03148C13B91242ED</string>
+				<string>7618C3B2C0963BFA3EAF98B0D835AAD5</string>
+				<string>2A591D525574EB13BFC41C47B931EB75</string>
+				<string>35B571FF4711FA29E4E07C7670D8F32A</string>
+				<string>9BD8F5DEA33C46F92D81396275F607C8</string>
+				<string>D66841219C26B7376AB23FD45F3F5ED1</string>
+				<string>CAEEA349F7FF854F3006B4EC4931AF83</string>
+				<string>678E84BA2F7067C8B7777704CDFF05D5</string>
+				<string>15E5ED3FB36CBAC76CB514207B7B9950</string>
+				<string>26B35B46A7F0C54FC767CCC958433CFF</string>
+				<string>2859F475D95248AF6469271E8FE90BD6</string>
+				<string>01B6818C9C20C19828098F268994867F</string>
+				<string>521FF3F10901C596209873CDBAA55909</string>
+				<string>713347A9E60A9FBCC53A907E785C130D</string>
+				<string>F8FE5E2377B62B0D6C16AAF44B8BF36E</string>
+				<string>C40FCC612F273D888F396368501AB124</string>
+				<string>B0AB7459CA3BF0236EE6F31D5FA9FA40</string>
+				<string>A546D5A4425B7A608D850E3AF056CAF0</string>
+				<string>74B3FD3D14B70313F73A450CD5129967</string>
+				<string>4E4C4F908DDAB30836B58EE093774932</string>
+				<string>EE764A5CFFC9D6C2AEB92F09922C005C</string>
+				<string>36D488995D448E9D6251E89E51C31681</string>
+				<string>4DDEE820FDDDFEDDE5965B250B10FD10</string>
+				<string>DF7D658C52B515DF0D78881319DA0D5D</string>
+				<string>5D3D833985E2D3D404C8D13186BAB47F</string>
+				<string>8FC9DFF365E44D6433A59755113800AC</string>
+				<string>E4A101A0F890782E71ED2D5C311BD2EE</string>
+				<string>AB7FF8A0F206F1819B3C8E22395DDDF9</string>
+				<string>79D013CCDEA3BE76AEB6D2264C75D115</string>
+				<string>56A8623BEE425DE52A9C4D7172971E9A</string>
+				<string>9A8AACB6D770336E46418B8225091397</string>
+			</array>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>AA0BF99D8887154AF0CB5B52D1370461</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>0D5C487278EB53A0C967F69C7C65A230</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string>iPhone Developer</string>
+				<key>CURRENT_PROJECT_VERSION</key>
+				<string>1</string>
+				<key>DEBUG_INFORMATION_FORMAT</key>
+				<string>dwarf-with-dsym</string>
+				<key>DEFINES_MODULE</key>
+				<string>YES</string>
+				<key>DYLIB_COMPATIBILITY_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_CURRENT_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_INSTALL_NAME_BASE</key>
+				<string>@rpath</string>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>GCC_NO_COMMON_BLOCKS</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Target Support Files/Capture/Capture-prefix.pch</string>
+				<key>INFOPLIST_FILE</key>
+				<string>Target Support Files/Capture/Info.plist</string>
+				<key>INSTALL_PATH</key>
+				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>8.0</string>
+				<key>LD_RUNPATH_SEARCH_PATHS</key>
+				<array>
+					<string>$(inherited)</string>
+					<string>@executable_path/Frameworks</string>
+					<string>@loader_path/Frameworks</string>
+				</array>
+				<key>MODULEMAP_FILE</key>
+				<string>Target Support Files/Capture/Capture.modulemap</string>
+				<key>MTL_ENABLE_DEBUG_INFO</key>
+				<string>NO</string>
+				<key>PRODUCT_NAME</key>
+				<string>Capture</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>TARGETED_DEVICE_FAMILY</key>
+				<string>1,2</string>
+				<key>VERSIONING_SYSTEM</key>
+				<string>apple-generic</string>
+				<key>VERSION_INFO_PREFIX</key>
+				<string></string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
+		<key>AAE70E1426B2F3CF3449E284459D0598</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>D84C4EC59E4B136320788C9E94720D8D</string>
+				<string>F00416AA4BC41F015373F0E099E000FC</string>
+				<string>5AE7FC43E8FE304831D9F52C692DF17E</string>
+				<string>9664812C6B098C2F273B7032004E2435</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Classes</string>
+			<key>path</key>
+			<string>Classes</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>AB7FF8A0F206F1819B3C8E22395DDDF9</key>
 		<dict>
 			<key>fileRef</key>
-			<string>2B536CE7A58238804905A0E7C23C214B</string>
+			<string>D16B6B501654A8E40FF6BC592E4F7324</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>ADECE6DDD637F77F04509B9CD437696A</key>
+		<key>ACB17A4A551945E6E97A4B914829E99C</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>2180E427BE9BDB016106687DD79BA20F</string>
+				<string>68F5EDA2F2D9CAB3130A302D420E8516</string>
+				<string>5F33E2EFEB60E1DD9E7956AF06AD215D</string>
+				<string>3281139C867166DB3C47A9CEC816810A</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Capture</string>
+			<key>path</key>
+			<string>../..</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B0AB7459CA3BF0236EE6F31D5FA9FA40</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3EE71BCB1C9CC852EC124D6B3F69E670</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>B1026C34B72FE0DE41A77912C2F55676</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>MobvenBugReportEventModel.h</string>
+			<string>mobven_close.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>AF4F403FA11FC2C53655E888F8A1F4FE</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E1B57595E7443BE8965E3B3EA628680D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
 		</dict>
 		<key>B13D8734C2802F3E6014FD531DC09E42</key>
 		<dict>
@@ -1875,19 +1776,38 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>B765CDF9E499ED39F354C49F12359564</key>
+		<key>B62E32D816438876595C0D7720713FB7</key>
 		<dict>
-			<key>fileRef</key>
-			<string>8D67DB01481D2F9CA30206DDF03575FC</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>mobven_close@3x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
-		<key>B8551A2E8DAA6F4A79AE6C12A95943F4</key>
+		<key>B63C3C4753BD1EE66A6D3E06B2EC5186</key>
 		<dict>
-			<key>fileRef</key>
-			<string>5E5F8E58E06E2A442AABD490BEBB4C53</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>mobvenBug@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B75F83DDF3FEF28CC57BAD697B901F13</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>mobven_renk1@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>BBA8A742729B156D0051F1CDC7408C96</key>
 		<dict>
@@ -1915,61 +1835,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>BC627BDE6A90FC49E8AB58E011523275</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>1B795EF005E07184CF4707EF04A01EC5</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>BD7978F5D965DF7A6F9C8954E2FEBB64</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>39EB8EC0DA212DF22E7555132DBB7D0D</string>
-				<string>78AF2685B20EDBFD1436B3EE6AC64BDC</string>
-				<string>7F6327C37CB62EFECC6B0630340C730D</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>BDAD5FE6F4218C2C80BE20D5A0F92033</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4C448CCD1843D3340F466BF4C04D95A9</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>BDD9BA6AAFD8741521084D8F32F17036</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>311055FCA8C5C47680D2A95CB4B91EFC</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Resources</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BE4DFD09354D2E665623FA3A3E26AF03</key>
-		<dict>
-			<key>fileRef</key>
-			<string>FBACB7A929A6C1CD42D439F99BBDCD37</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>BE73D3B22F8D364D465A9E541A6CBF32</key>
 		<dict>
 			<key>fileRef</key>
@@ -1984,34 +1849,6 @@
 				</array>
 			</dict>
 		</dict>
-		<key>C05846A5F466027F18AAA863CC607CA5</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>FFB449383872640F44E0F318D69EF5EF</string>
-			<key>buildPhases</key>
-			<array>
-				<string>8135DA6ED5E98759E0E204AB27BE8B56</string>
-				<string>BC627BDE6A90FC49E8AB58E011523275</string>
-				<string>7D4AD9DF797813CAEE6BE1AC1BCD67E0</string>
-				<string>BD7978F5D965DF7A6F9C8954E2FEBB64</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>98A7EAC3A68F52E22765153F7916719D</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>Capture</string>
-			<key>productName</key>
-			<string>Capture</string>
-			<key>productReference</key>
-			<string>6AB250A5F814FB6FE286FE5AFDFB3952</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
-		</dict>
 		<key>C3215445D794E0D6642071E9C73D92DA</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -2024,6 +1861,13 @@
 			<string>Info.plist</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C40FCC612F273D888F396368501AB124</key>
+		<dict>
+			<key>fileRef</key>
+			<string>A37EFD83BFCBCFE1B3CC4D138809E1F7</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>C73BFC62A386C4785E23E15FD6AB7CE3</key>
 		<dict>
@@ -2038,32 +1882,27 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>CAB7B48EAC1DDF51C600BEAAC39949E0</key>
+		<key>CAEEA349F7FF854F3006B4EC4931AF83</key>
 		<dict>
+			<key>fileRef</key>
+			<string>B1026C34B72FE0DE41A77912C2F55676</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>CD595D67254AD46063B669C450A8526D</key>
+		<dict>
+			<key>explicitFileType</key>
+			<string>wrapper.framework</string>
 			<key>includeInIndex</key>
-			<string>1</string>
+			<string>0</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.plug-in</string>
+			<key>name</key>
+			<string>Pods_Capture_Example.framework</string>
 			<key>path</key>
-			<string>MobvenBugKit.bundle</string>
+			<string>Pods-Capture_Example.framework</string>
 			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CE7A18C0E6D7B0E7EF95A242E70FF427</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>46E91F4F9E343B127B181675DDFC3CE7</string>
-				<string>8BD36885FFB6A534FAE23F330EF6D05C</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
+			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
 		<key>CEC22C73C1608DFA5D5D78BDCB218219</key>
 		<dict>
@@ -2078,23 +1917,44 @@
 			<key>sourceTree</key>
 			<string>DEVELOPER_DIR</string>
 		</dict>
-		<key>CF7C324DD3E0974396AA495150753A11</key>
+		<key>CF9BD4F0DB30CF1B2940B09E6EC75372</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>63C02EDA3ECD5E647028F239600A2F69</string>
+				<string>1FDEE66DB9B0AFF21EEBBE034D8194F9</string>
+				<string>1D374DDF15470DA829B581D04905DFC4</string>
+			</array>
+			<key>isa</key>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
+		<key>D16B6B501654A8E40FF6BC592E4F7324</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>path</key>
-			<string>mobven_selected_renk.png</string>
+			<string>mobven_selected_renk@3x.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>D1D6FD3C55FE3E48964E9C68D5F1444D</key>
+		<key>D3722BF0578132CECFC4D7B9825E8936</key>
 		<dict>
-			<key>fileRef</key>
-			<string>3E6C6D1D603644C124EBECF7ED97188B</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>Capture-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>D3E3D092A3FF7311A98E44BBA36FFD12</key>
 		<dict>
@@ -2200,7 +2060,7 @@
 			<key>mainGroup</key>
 			<string>7DB346D0F39D3F0E887471402A8071AB</string>
 			<key>productRefGroup</key>
-			<string>0D6A90921AA0B877A04A05E62F46E185</string>
+			<string>78485270D3618B6917C05A08345A886A</string>
 			<key>projectDirPath</key>
 			<string></string>
 			<key>projectReferences</key>
@@ -2209,16 +2069,42 @@
 			<string></string>
 			<key>targets</key>
 			<array>
-				<string>C05846A5F466027F18AAA863CC607CA5</string>
-				<string>A558FDC119CC760E628CD081A70B0585</string>
+				<string>1EC1A7CF6ACD89A1954D2715BDE10A06</string>
 				<string>391B1DC859A933330B866B527F807C6C</string>
 				<string>5EB229E3B0D6073CBABB20E6DF86D534</string>
 			</array>
 		</dict>
-		<key>D59CCFA176420ABF38F889CB7BA66549</key>
+		<key>D50A408CA5D029B85866CAAFF60DEA67</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>wrapper.plug-in</string>
+			<key>path</key>
+			<string>MobvenBugKit.bundle</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D6538EE7867D5031373EBD2B105D2FB9</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>75EBBD9F8839E0FE975F58DC40687B69</string>
+				<string>AA0BF99D8887154AF0CB5B52D1370461</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>D66841219C26B7376AB23FD45F3F5ED1</key>
 		<dict>
 			<key>fileRef</key>
-			<string>104EF954D1F16B5A049DAF877ED99D6E</string>
+			<string>41AE7172E1C0831F7D57E509367879CF</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -2235,87 +2121,36 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>D734EF79175D080CA6EA3A0CF3964455</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>mobven_renk2@2x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DB03F22CAAAB85103B5CBB5ACE7B6450</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>DB7DCFF6A9C234F015E7F1D635D067BD</key>
-		<dict>
-			<key>fileRef</key>
-			<string>052E5D717D0E7D0B8847F14E68E120C0</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>DBC35679E3CB14F7AAAE30C8B612AA6A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>95197C3B8B9C38669612A0F52285B1DD</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>DE2171EF0AD800862BF4E45B306CF373</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>mobven_selected_renk@3x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DEB6E4E0E0B898605A91D2673B510D54</key>
+		<key>D84C4EC59E4B136320788C9E94720D8D</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
+			<string>archive.ar</string>
 			<key>path</key>
-			<string>Capture-prefix.pch</string>
+			<string>libMobvenBugKit.a</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>DFB7F7A10357027982E2859F122269CA</key>
+		<key>DE26AB1917A35C88CC1C94F68E7BA16F</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>path</key>
-			<string>mobven_back.png</string>
+			<string>mobven_reverse.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>E1B57595E7443BE8965E3B3EA628680D</key>
+		<key>DF7D658C52B515DF0D78881319DA0D5D</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>1A5055217E726D5D2748CE5EEC3D7C54</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>mobven_reverse@2x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>E24B9F418EE067AF743E77CC51372ACE</key>
 		<dict>
@@ -2330,65 +2165,38 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>E5F18383A7E3DBF9FED7F46444E157A9</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>FBACB7A929A6C1CD42D439F99BBDCD37</string>
-				<string>965B516F01420BB5F5990C1F9F9325CD</string>
-				<string>ADECE6DDD637F77F04509B9CD437696A</string>
-				<string>1C3CF25B1379FD6D47493D0B7F79C86E</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Classes</string>
-			<key>path</key>
-			<string>Classes</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>E8D3DB1E577127B06EC620AB8926447B</key>
+		<key>E34E7B43C363ECD6970DEA1954C82978</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.plist.xml</string>
 			<key>path</key>
-			<string>Capture.modulemap</string>
+			<string>Info.plist</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>EB3A1BE73B34561CC8BC9A7E7356D5A3</key>
+		<key>E433A686FA61F7F3A14A7A77B6765B0A</key>
 		<dict>
-			<key>children</key>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
 			<array>
-				<string>5B1043D6361C3D9FB04BF7C1B4E4DD6E</string>
-				<string>130DB98D4BED6CBBDB0270C3EDC00C1A</string>
-				<string>BDD9BA6AAFD8741521084D8F32F17036</string>
-				<string>4C574AC2228936BADC4845639D4F53FC</string>
+				<string>EC43B53F9516A8BEC6199D94E6428035</string>
 			</array>
 			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Capture</string>
-			<key>path</key>
-			<string>../..</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
 		</dict>
-		<key>EB58239CFCF16B40785690DBD8360D83</key>
+		<key>E4A101A0F890782E71ED2D5C311BD2EE</key>
 		<dict>
-			<key>containerPortal</key>
-			<string>D41D8CD98F00B204E9800998ECF8427E</string>
+			<key>fileRef</key>
+			<string>0E81B13DFD64B307EFC278F0E67A58DB</string>
 			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>A558FDC119CC760E628CD081A70B0585</string>
-			<key>remoteInfo</key>
-			<string>Capture-MobvenBugKit.bundle</string>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>EB9D094AC5B8898875C14EE8D25BD54E</key>
 		<dict>
@@ -2403,6 +2211,13 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>EC43B53F9516A8BEC6199D94E6428035</key>
+		<dict>
+			<key>fileRef</key>
+			<string>CEC22C73C1608DFA5D5D78BDCB218219</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>EC609C8023BBF9EA29FEC73EAC671D8B</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -2416,12 +2231,38 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>F319DD2E21EEB8D76C210B42F86715AB</key>
+		<key>EE764A5CFFC9D6C2AEB92F09922C005C</key>
 		<dict>
 			<key>fileRef</key>
-			<string>5322A9F59DAB52A39606CF9670630FC0</string>
+			<string>6B86C40BBEAEBAE1FAF38E9D1F397968</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+		</dict>
+		<key>F00416AA4BC41F015373F0E099E000FC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MobvenBugReporter.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>F05F7E0F679335EB313C2E46AC0D4BFB</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>text.plist.xml</string>
+			<key>path</key>
+			<string>Info.plist</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>F3A60297227A854D585079F74FAEDC75</key>
 		<dict>
@@ -2430,45 +2271,27 @@
 			<key>name</key>
 			<string>Capture</string>
 			<key>target</key>
-			<string>C05846A5F466027F18AAA863CC607CA5</string>
+			<string>1EC1A7CF6ACD89A1954D2715BDE10A06</string>
 			<key>targetProxy</key>
 			<string>A704AF372110D14F1024A06E70292992</string>
 		</dict>
-		<key>F502E7B343E9282FF9003C9DFCFFC8B7</key>
+		<key>F8FE5E2377B62B0D6C16AAF44B8BF36E</key>
+		<dict>
+			<key>fileRef</key>
+			<string>19DC936EBAB6B56B4D3A57655DFCB455</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>FA7089AADD3A0919C5411691E5BCA268</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>path</key>
-			<string>mobven_renk1.png</string>
+			<string>mobven_selected_renk.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F735C6D85A7149B6ACE6D4A765C10965</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>mobven_renk1@3x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F85D43E6F97B4A630CF2318161E973F0</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9371406622FE910BEA200E1A25F16E46</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F8AE286ECC2C5A369D52B8DBA410B9CA</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4E25F53C0CE4132E2E5750EE492174AE</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
 		</dict>
 		<key>FA9827686CDECC62201A715CC666226D</key>
 		<dict>
@@ -2483,45 +2306,20 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>FBACB7A929A6C1CD42D439F99BBDCD37</key>
+		<key>FCAF1438967ECB0AC5D863D798587842</key>
 		<dict>
+			<key>explicitFileType</key>
+			<string>wrapper.framework</string>
 			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>archive.ar</string>
-			<key>path</key>
-			<string>libMobvenBugKit.a</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FE337A5BF3A59DED9573B8E6274DE74A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>ResourceBundle-MobvenBugKit.bundle-Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FFB449383872640F44E0F318D69EF5EF</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>8400112CF1859F9C21D4DF4530C82063</string>
-				<string>20193AD2A96AD6907E42098A5B129F55</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
 			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
 			<key>isa</key>
-			<string>XCConfigurationList</string>
+			<string>PBXFileReference</string>
+			<key>name</key>
+			<string>Pods_Capture_Tests.framework</string>
+			<key>path</key>
+			<string>Pods-Capture_Tests.framework</string>
+			<key>sourceTree</key>
+			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
 	</dict>
 	<key>rootObject</key>
